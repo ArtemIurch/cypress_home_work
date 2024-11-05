@@ -1,0 +1,14 @@
+cypress/support/*
+cypress/e2e/1-getting-started/
+cypress/e2e/2-advanced-examples/
+# Dependencies
+node_modules/
+
+# Cypress artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+
+# System files
+.DS_Store
+Thumbs.db
